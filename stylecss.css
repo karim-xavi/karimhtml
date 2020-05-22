@@ -1,0 +1,31 @@
+body {background-image: url("azzzzz.jpeg");}
+b{font-size: solid red}
+mark{color: red;}
+p{border:1.2px solid rgb(255, 255, 102);
+    margin:10px 10px;
+    font-family: "calibri";
+    color: white;
+    font-size: 18px;}
+br{size: 10px;}
+h1{font-size:60px;
+	color:red;
+	margin:10px 00px;}
+h2{font-size:30px;
+	color:green;
+	margin:10px;}
+h3{font-size:20px;
+	color:green;
+	color: blue;
+	margin:10px;}
+img{
+	height: 300px;
+	width: 400px;
+	margin: 5px;
+}
+.container{
+	display: flex;
+	flex-wrap: wrap ;
+	justify-content: center;}
+.navbar{
+	background-color:rgba(102, 0, 51,20%) ;
+}
